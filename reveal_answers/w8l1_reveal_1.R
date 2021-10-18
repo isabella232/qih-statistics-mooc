@@ -1,0 +1,6 @@
+cat("How long is the seventh run on this chart?\n")
+cat("Correct answer: 2\n")
+cat("How many runs are there in total on this chart?\n")
+cat("Correct answer: 28\n")
+cat("How many data points (in this case, months) are there on this chart?\n")
+cat("Correct answer: 50")
